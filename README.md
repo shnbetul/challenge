@@ -24,5 +24,7 @@ Worker işlemi için Queue kullanmanız beklenmektedir.
 # docker compose up 
 # php artisan migrate --seed
 
-# Company kayıt olduktan sonra login olursa company statsu 1 olur
-# Package status ve period update edilmeli 
+## Company kayıt olduktan sonra login olursa company status 1 olur
+## Package status ve period update edilmeli 
+## postman collection resources içinde
+
